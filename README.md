@@ -2,7 +2,7 @@
 ## Ruchika Kasireddy
 
 ### Interests
-* Business Analysis
+- Business Analysis
 * Application Development
 * Database Management
 
