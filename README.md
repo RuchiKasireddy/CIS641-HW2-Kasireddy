@@ -11,6 +11,6 @@ Business Analyst with 2+ years of experience in IT domain as Business System Ana
 
 (https://pics.esmemes.com/i-need-salary-increment-3-other-companies-are-after-me-6148116.png)
 
-<span style="color:blue">some *blue* text</span>
+
 
 
