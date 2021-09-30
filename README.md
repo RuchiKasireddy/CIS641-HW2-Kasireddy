@@ -1,6 +1,6 @@
-# CIS641-HW2-Kasireddy
+<img align="right" width="350" height="350" src="https://media.istockphoto.com/vectors/freelancer-working-on-laptop-at-home-remote-job-vector-id1214343299?k=20&m=1214343299&s=612x612&w=0&h=2MolgCbNrjR6OwcsE853VxXl86IXmKxPQ187Jmb6eb4=">
 
-<img align="right" width="350" height="350" src="https://kit8.net/wp-content/uploads/edd/2021/06/kit8net-Lemberg-header.jpg">
+# CIS641-HW2-Kasireddy
 
 ## Ruchika Kasireddy
 
