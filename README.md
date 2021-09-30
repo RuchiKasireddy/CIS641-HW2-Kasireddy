@@ -14,5 +14,6 @@ Business Analyst with 2+ years of experience in IT domain as Business System Ana
 
 ### Term Project 
 
+A patient Monitoring system which ensures continual provider engagement and delivers maximum possibility of successful treatment. The application provides a platform for patient care management providing medically necessary support to patients that are suffering from health problems.
 
 
