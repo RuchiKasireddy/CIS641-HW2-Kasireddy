@@ -1,7 +1,8 @@
 # CIS641-HW2-Kasireddy
-## Ruchika Kasireddy
 
-<img align="right" width="300" height="300" src="https://kit8.net/wp-content/uploads/edd/2021/06/kit8net-Lemberg-header.jpg">
+<img align="right" width="400" height="400" src="https://kit8.net/wp-content/uploads/edd/2021/06/kit8net-Lemberg-header.jpg">
+
+## Ruchika Kasireddy
 
 ### Interests
 - Business Analysis
