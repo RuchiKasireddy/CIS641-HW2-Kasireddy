@@ -12,7 +12,9 @@
 ### Technical Background
 Business Analyst with 2+ years of experience in IT domain as Business System Analyst and Validation specialist. Adept at configuring and using Business Modeling and Use Case Development. Proficient in interacting with customers & stakeholders, Requirement Management, understanding & translating business requirements.
 
-(https://rupesh247.github.io/GVSU-CIS641-Mavericks/)
 ### Term Project 
 
 I have been part of Project "AAYU" which is a patient Monitoring system which ensures continual doctor engagement and delivers maximum possibility of successful treatment. The objective of the application is to provide a platform for patient care management providing medically necessary support to patients that are suffering from health problems. 
+
+
+[](https://rupesh247.github.io/GVSU-CIS641-Mavericks/)
